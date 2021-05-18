@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#search {
+    border-radius: 20px;
+    border-color: aquamarine;
+    color: aquamarine;
+    background-color: white;
+    padding:5px 30px;
+    border: solid;
+}
+
+#plus {
+    display:block;
+    background-color: #00D1B2;
+    color:white;
+    border-radius:50%;
+    padding:10px 13px;
+    border: solid;
+}
+
+#create {
+    border: 2px black solid;
+    background-color: #2B78E4;
+    color: white;
+    box-shadow: 3px 3px black;
+    padding: 5px 10px;
+}
